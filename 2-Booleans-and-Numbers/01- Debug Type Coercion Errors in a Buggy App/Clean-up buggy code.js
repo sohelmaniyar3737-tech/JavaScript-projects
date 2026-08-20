@@ -1,22 +1,22 @@
 // Before correction
 
-const firstResult = "5" + 10;
-console.log(`5 + 10 = ${firstResult}`);
+// const firstResult = "5" + 10;
+// console.log(`5 + 10 = ${firstResult}`);
 
-const secondResult = 8 - 5;
-console.log(`8 - 5 = ${secondResult}`);
+// const secondResult = 8 - 5;
+// console.log(`8 - 5 = ${secondResult}`);
 
-const thirdResult = true + 5;
-console.log(`true + 5 = ${thirdResult}`);
+// const thirdResult = true + 5;
+// console.log(`true + 5 = ${thirdResult}`);
 
-const fourthResult = false + 8;
-console.log(`false + 8 = ${fourthResult}`);
+// const fourthResult = false + 8;
+// console.log(`false + 8 = ${fourthResult}`);
 
-const fifthResult = "10" * 2;
-console.log(`"10" * 2 = ${fifthResult}`);
+// const fifthResult = "10" * 2;
+// console.log(`"10" * 2 = ${fifthResult}`);
 
-const sixthResult = null + 22;
-console.log(`null + 22 = ${sixthResult}`);
+// const sixthResult = null + 22;
+// console.log(`null + 22 = ${sixthResult}`);
 
 
 // After correction
