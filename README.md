@@ -4,8 +4,8 @@ Learning JavaScript from FreeCodeCamp.
 
 ## Topics Completed
 
-- Variables
-- Strings, Booleans & Numbers
+- Variables and Strings
+- Booleans & Numbers
 - Functions
 - Arrays
 
