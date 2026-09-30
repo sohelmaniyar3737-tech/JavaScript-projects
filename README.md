@@ -8,6 +8,7 @@ Learning JavaScript from FreeCodeCamp.
 - Booleans & Numbers
 - Functions
 - Arrays
+- Loops
 
 ## Goal
 
